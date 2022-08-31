@@ -1,1 +1,1 @@
-long format, user and group ids, hidden files
+creates my_first_directory in the /tmp/ directory
